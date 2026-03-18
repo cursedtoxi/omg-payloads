@@ -7,7 +7,7 @@ REM # Note: This script will only work if the target have whatsapp without lock
 REM # ---------------------------------------------------------------------------------------------------
 
 REM # Enter your phone here
-STRING https://wa.me/+91xxxxxxxxxx
+STRING https://wa.me/+31630164747
 ENTER
 DELAY 2500
 REM # Enter your message here 
